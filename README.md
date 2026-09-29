@@ -7,7 +7,7 @@ Most of my work comes down to one question: what can you learn about the physica
 ### 🔍 What I'm working on
 
 - 📅 **[robotics-geospatial-100-days](https://github.com/samarthkbrahmbhatt/robotics-geospatial-100-days)**: one small build every day, alternating between satellite imagery and robotics. Public, including the days where the first answer turned out to be wrong.
-- 🌍 **Terraspectral**: an AI and satellite based ecosystem monitoring platform I co-founded.
+- 🌍 **Terraspectral**: an AI and satellite based ecosystem monitoring platform I founded.
 
 ### 🎓 Background
 

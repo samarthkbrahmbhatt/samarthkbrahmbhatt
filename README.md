@@ -1,6 +1,6 @@
 ## Hi, I'm Samarth
 
-🛰️ Electronics and communications engineer working at the intersection of **remote sensing, geospatial AI and robotics**. Based in Sharjah, UAE.
+🛰️ Electronics and communications engineer working at the intersection of **remote sensing, geospatial AI and robotics**. Based in UAE.
 
 Most of my work comes down to one question: what can you learn about the physical world from a distance, and how do you act on it?
 

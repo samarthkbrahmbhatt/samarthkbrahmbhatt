@@ -12,7 +12,7 @@ Most of my work comes down to one question: what can you learn about the physica
 ### 🎓 Background
 
 - 💼 Technical consultant at **TÜV Rheinland Middle East**, digital transformation and sustainability: proposals, bids and quality management for government and utility clients
-- 🛰️ Research intern at the **Mohammed Bin Rashid Space Centre**, working on AI-driven geospatial analytics for soil organic carbon and mangrove monitoring
+- 🛰️ Researcher at the **Mohammed Bin Rashid Space Centre**, working on AI-driven geospatial analytics for soil organic carbon and mangrove monitoring
 - 📡 Research intern at **IIST**, hyperspectral remote sensing and IoT
 - 🤖 **BE Electronics & Communications Engineering**, BITS Pilani Dubai, with a minor in Robotics & Automation
 
